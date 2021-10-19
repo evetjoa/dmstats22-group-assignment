@@ -72,10 +72,10 @@ var createVisualization = function(data) {
 
 	// Step 11: Change the drawing order
 	// Larger circles should not overlap or cover smaller circles.
-	// Sort the countries by population before drawing them.
+	// Sort the artists by streams before drawing them.
 
 
-	// Step 12: Color the circles (countries) depending on their regions
+	// Step 12: Color the circles depending on their genres
 	// Use a D3 color scale
 
 
